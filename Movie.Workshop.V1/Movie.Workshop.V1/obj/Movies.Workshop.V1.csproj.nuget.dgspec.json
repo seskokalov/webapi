@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sesko\\OneDrive\\Desktop\\WebAPI\\webapi\\Class03.Homework\\Class03.Homework\\Class03.Homework.csproj": {}
+    "C:\\Users\\sesko\\OneDrive\\Desktop\\WebAPI\\Workshop\\Movie.Workshop.V1\\Movie.Workshop.V1\\Movies.Workshop.V1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sesko\\OneDrive\\Desktop\\WebAPI\\webapi\\Class03.Homework\\Class03.Homework\\Class03.Homework.csproj": {
+    "C:\\Users\\sesko\\OneDrive\\Desktop\\WebAPI\\Workshop\\Movie.Workshop.V1\\Movie.Workshop.V1\\Movies.Workshop.V1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sesko\\OneDrive\\Desktop\\WebAPI\\webapi\\Class03.Homework\\Class03.Homework\\Class03.Homework.csproj",
-        "projectName": "Class03.Homework",
-        "projectPath": "C:\\Users\\sesko\\OneDrive\\Desktop\\WebAPI\\webapi\\Class03.Homework\\Class03.Homework\\Class03.Homework.csproj",
+        "projectUniqueName": "C:\\Users\\sesko\\OneDrive\\Desktop\\WebAPI\\Workshop\\Movie.Workshop.V1\\Movie.Workshop.V1\\Movies.Workshop.V1.csproj",
+        "projectName": "Movies.Workshop.V1",
+        "projectPath": "C:\\Users\\sesko\\OneDrive\\Desktop\\WebAPI\\Workshop\\Movie.Workshop.V1\\Movie.Workshop.V1\\Movies.Workshop.V1.csproj",
         "packagesPath": "C:\\Users\\sesko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sesko\\OneDrive\\Desktop\\WebAPI\\webapi\\Class03.Homework\\Class03.Homework\\obj\\",
+        "outputPath": "C:\\Users\\sesko\\OneDrive\\Desktop\\WebAPI\\Workshop\\Movie.Workshop.V1\\Movie.Workshop.V1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sesko\\AppData\\Roaming\\NuGet\\NuGet.Config",
