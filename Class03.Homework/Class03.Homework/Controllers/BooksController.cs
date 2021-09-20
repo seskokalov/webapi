@@ -115,7 +115,7 @@ namespace Class03.Homework.Controllers
         {
             try
             {                
-                return StatusCode(StatusCodes.Status200OK, books);
+                return StatusCode(StatusCodes.Status200OK, books.Select(x => x.Title));
             }
             catch
             {
