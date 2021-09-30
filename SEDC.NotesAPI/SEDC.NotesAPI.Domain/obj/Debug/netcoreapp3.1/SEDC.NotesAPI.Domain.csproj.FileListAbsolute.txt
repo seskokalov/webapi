@@ -1,0 +1,9 @@
+C:\Users\sesko\OneDrive\Documents\GitHub\skwd9-09-aspnetwebapi\G4\Class08\SEDC.NotesAPI\SEDC.NotesAPI.Domain\bin\Debug\netcoreapp3.1\SEDC.NotesAPI.Domain.deps.json
+C:\Users\sesko\OneDrive\Documents\GitHub\skwd9-09-aspnetwebapi\G4\Class08\SEDC.NotesAPI\SEDC.NotesAPI.Domain\bin\Debug\netcoreapp3.1\SEDC.NotesAPI.Domain.dll
+C:\Users\sesko\OneDrive\Documents\GitHub\skwd9-09-aspnetwebapi\G4\Class08\SEDC.NotesAPI\SEDC.NotesAPI.Domain\bin\Debug\netcoreapp3.1\SEDC.NotesAPI.Domain.pdb
+C:\Users\sesko\OneDrive\Documents\GitHub\skwd9-09-aspnetwebapi\G4\Class08\SEDC.NotesAPI\SEDC.NotesAPI.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sesko\OneDrive\Documents\GitHub\skwd9-09-aspnetwebapi\G4\Class08\SEDC.NotesAPI\SEDC.NotesAPI.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\sesko\OneDrive\Documents\GitHub\skwd9-09-aspnetwebapi\G4\Class08\SEDC.NotesAPI\SEDC.NotesAPI.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesAPI.Domain.AssemblyInfo.cs
+C:\Users\sesko\OneDrive\Documents\GitHub\skwd9-09-aspnetwebapi\G4\Class08\SEDC.NotesAPI\SEDC.NotesAPI.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sesko\OneDrive\Documents\GitHub\skwd9-09-aspnetwebapi\G4\Class08\SEDC.NotesAPI\SEDC.NotesAPI.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesAPI.Domain.dll
+C:\Users\sesko\OneDrive\Documents\GitHub\skwd9-09-aspnetwebapi\G4\Class08\SEDC.NotesAPI\SEDC.NotesAPI.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesAPI.Domain.pdb

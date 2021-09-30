@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YtyH9SgKI/+ua6QFcTCUTudMaJe2rj9/Jk+zHc1hZNzxoWKFzu7ssfgfBREDUci08M6Ty889haHRwOSIBGLl1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sesko\\OneDrive\\Desktop\\WebAPI\\Homework\\SEDC.NotesAPI\\SEDC.NotesAPI.Domain\\SEDC.NotesAPI.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sesko\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\sesko\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
+    "C:\\Users\\sesko\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\sesko\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\sesko\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
